@@ -4,3 +4,4 @@ sb boss
 nihaoa
 add c feach
 add gg 思密达
+git is a good cvs
